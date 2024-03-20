@@ -13,7 +13,7 @@
 <p>5.Results</p>
 <p>6.Future Improvements</p>
 
-<h5>Dependencies</h5>
+<h3>Dependencies</h3>
 
 <p>Ensure you have the following dependencies installed:</p>
 
@@ -22,7 +22,7 @@
 <p>Seaborn</p>
 <p>Scikit-learn</p>
 
-<h5>Dataset</h5>
+<h3>Dataset</h3>
 
 <p>The dataset used in this project contains information about cars, including the following columns:</p>
 
@@ -36,7 +36,7 @@
 <p>Transmission</p>
 <p>Owner</p>
 
-<h5>Project Structure</h5>
+<h3>Project Structure</h3>
 
 <p>The project structure is organized as follows:</p>
 
@@ -44,7 +44,7 @@
 <p>**car data.csv**: Dataset used for training and testing the models.</p>
 <p>**README.md**: Markdown file containing project documentation.</p>
 
-<h5>Technical Details:</h5>
+<h3>Technical Details:</h3>
 <h6></h6>Data Preprocessing:</
 <p>The dataset is loaded into a Pandas DataFrame.</p>
 <p>Initial exploration of the data includes checking for missing values, data types, and basic statistics.</p>
@@ -71,7 +71,7 @@
 <p>**Data Leakage**: Ensuring that no information from the test set leaks into the training process, which could artificially inflate model performance.</p>
 <p>**Hyperparameter Tuning**: Optimizing model hyperparameters to improve predictive accuracy and generalization performance.</p>
 
-<h5>Results</h5>
+<h3>Results</h3>
 
 <p>The project achieves a certain level of accuracy in predicting car prices based on the features provided.</p>
 <p>Evaluation metrics such as R-squared error are used to assess model performance.</p>
